@@ -1,0 +1,19 @@
+{
+  "name": "captchaguru",
+  "version": "1.0.0",
+  "description": "API wrapper for captcha.guru",
+  "main": "src/export.js",
+  "scripts": {
+    "test": "node tests/test.js"
+  },
+  "keywords": [
+    "captcha",
+    "solve",
+    "captcha solve",
+    "captchaguru",
+    "guru",
+    "captcha guru"
+  ],
+  "author": "Sopur",
+  "license": "MIT"
+}
